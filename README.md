@@ -1,2 +1,1 @@
-# lab06-
-lab 6 code 
+Complete and working code for listnode assignment for lab 6. Each method works and contains the necessary exceptions per method. Comments are included which explain the code where necessary. Each method performs as expected and described by the lab intructions. I've included a example code in main which calls every method.
